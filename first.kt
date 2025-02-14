@@ -3,7 +3,8 @@ fun main(){
         println("$i $v");
     }
     val x = 10;
-
     print(x)
+
+    print("Checking changes")
 }
 
